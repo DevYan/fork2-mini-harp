@@ -12,6 +12,7 @@
   "author": "zhangyan",
   "license": "MIT",
   "dependencies": {
-    "connect": "^3.0.1"
+    "connect": "^3.0.1",
+    "serve-static": "^1.0.3"
   }
 }
